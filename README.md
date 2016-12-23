@@ -1,2 +1,2 @@
-# toolsqabasics
-http://toolsqa.wpengine.com/selenium-webdriver/
+Agata Lis-Marciniak
+a.lis.marciniak@gmail.com
